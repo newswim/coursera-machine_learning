@@ -1,6 +1,5 @@
 ## Vocabulary and Concepts
 
-
 **"Supervised Learning"**
 - Given: the "Right" answer for a problem
 

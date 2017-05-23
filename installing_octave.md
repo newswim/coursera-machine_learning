@@ -1,12 +1,12 @@
-There are a few ways of installing Octave.
+> There are a few ways to install Octave.
 
-### Note -- there is an in-browser option
+### Note: _there's an in-browser option_
 
 If you don't want to fuss with installing a pretty large binary (around 1gb on mac),
 use [Octave-Online.net](https://octave-online.net/). Signing in will allow things
 like sync to google docs and "collaboration" mode.
 
-# Installing on Mac
+# Install on Mac
 
 If you're on MacOS:
 
@@ -21,15 +21,15 @@ The latter may require a few extra configuration steps...
 #### [Read this post if you encounter issues](https://adampash.com/how-to-install-octave)
 
 There is additional info in the [official guide](http://wiki.octave.org/Octave_for_MacOS_X),
-but personally I found this page a big confusing.
+but personally I found this page a bit confusing.
 
-# Installing on Windows
+# Install on Windows
 
 Install the latest binary from [here](https://ftp.gnu.org/gnu/octave/windows/).
 That would be `octave-4.2.1-w64-installer.exe` or `octave-4.2.1-w32-installer.exe`
 depending on the architecture of your cpu.
 
-# Installing for GNU/Linux
+# Install for GNU/Linux
 
 Generally you may use the preferred package manager for your distribution.
 These include:
